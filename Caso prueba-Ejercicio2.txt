@@ -1,0 +1,15 @@
+http://localhost:8080/tasaOperacion
+
+{
+    "monto": 850,
+    "tarjeta": {
+        "marca": "VISA",
+        "numeroTarjeta": "1344532635356635",
+        "cliente": {
+            "dni": 19015485,
+            "nombre": "Allison",
+            "apellido": "Melgar"
+        }
+    },
+    "fechaHoraOperacion": "2024-07-31T21:00:20"
+}
